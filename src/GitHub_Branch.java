@@ -16,6 +16,7 @@ public class GitHub_Branch {
         git merge [isim] ==> İki branch i birleştirir
         git branch -m [isim] ==> Branch ismini değiştirir.
        */
+    // => ersoy  branhc' inde degisiklik yapacagız...
 
 
 }
