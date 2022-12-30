@@ -17,6 +17,6 @@ public class GitHub_Branch {
         git branch -m [isim] ==> Branch ismini değiştirir.
        */
     // => ersoy  branhc' inde degisiklik yapacagız...
-
+    //=0> master branch'indeyiz ve degisiklik yapacagiz...
 
 }
